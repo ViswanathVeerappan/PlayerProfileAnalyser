@@ -1,0 +1,47 @@
+@CHARSET "ISO-8859-1";
+
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+#profileView, #analayzerView, #videoView {
+	padding-top: 60px;
+}
+
+#analayzerView {
+	padding-top: 60px;
+}
+
+#videoView {
+	padding-top: 60px;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	background-color: #484848;
+}
+
+#profilePanelBody, #analyzerPanelBody, #videoPanelBody {
+	background-color: #D0D0D0;
+}
+
+#profilePanelHeading, #analyzerPanelHeading, #videoPanelHeading {
+	background-color: #222;
+	border-color: #222;
+}
+
+#messageDiv {
+	padding-top: 10px;
+}
+
+dd, dt {
+	line-height: 1.6;
+}
+
+#exceptionView {
+	padding-top: 100px;
+}
+
+#logoView {
+	padding-top: 60px;
+	
+}
